@@ -1,2 +1,2 @@
 # H-M
-Created cloned version of H&M website
+Created cloned version of H&M website.

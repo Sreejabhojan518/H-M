@@ -56,21 +56,34 @@ body{
 .footer1{
     display: inline-flex;
     margin-top: 50px;
-    color: black;
+    margin-left: 10px;
 }
 
 .footer11{
-    margin-left: 150px;
-    font-size: 13px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.footer111{
+    font-weight: bold;
 }
 
 .footer12{
-    margin-left: 100px;
+    margin-left: 80px;
     font-size: 13px;
 }
+
+.footer121{
+    font-weight: bold;
+}
+
 .footer13{
-    margin-left: 100px;
+    margin-left: 80px;
     font-size: 13px;
+}
+
+.footer131{
+    font-weight: bold;
 }
 .footer14{
     margin-left: 150px;
@@ -115,4 +128,13 @@ body{
     margin-top: 10px;
     background-color: white;
 }
-
+.img1text{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+    margin-left: 300px;
+    margin-top: 400px;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+}
